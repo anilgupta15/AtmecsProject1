@@ -1,0 +1,14 @@
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\bin\Debug\ClientServer.exe
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\bin\Debug\ClientServer.exe.config
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\App.g.cs
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\ClientServer_MarkupCompile.cache
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\ClientServer_MarkupCompile.lref
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\MainWindow.baml
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\ClientServer.g.resources
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\ClientServer.Properties.Resources.resources
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\ClientServer.csproj.GenerateResource.cache
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\ClientServer.csproj.CoreCompileInputs.cache
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\ClientServer.exe
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\obj\Debug\ClientServer.pdb
+D:\Visual Studio\UDPClientServerCommunication\ClientServer\bin\Debug\ClientServer.pdb

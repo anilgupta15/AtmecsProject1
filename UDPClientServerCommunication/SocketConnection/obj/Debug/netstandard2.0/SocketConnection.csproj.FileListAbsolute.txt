@@ -1,0 +1,9 @@
+D:\Visual Studio\UDPClientServerCommunication\SocketConnection\bin\Debug\netstandard2.0\SocketConnection.deps.json
+D:\Visual Studio\UDPClientServerCommunication\SocketConnection\bin\Debug\netstandard2.0\SocketConnection.dll
+D:\Visual Studio\UDPClientServerCommunication\SocketConnection\bin\Debug\netstandard2.0\SocketConnection.pdb
+D:\Visual Studio\UDPClientServerCommunication\SocketConnection\obj\Debug\netstandard2.0\SocketConnection.csprojAssemblyReference.cache
+D:\Visual Studio\UDPClientServerCommunication\SocketConnection\obj\Debug\netstandard2.0\SocketConnection.csproj.CoreCompileInputs.cache
+D:\Visual Studio\UDPClientServerCommunication\SocketConnection\obj\Debug\netstandard2.0\SocketConnection.AssemblyInfoInputs.cache
+D:\Visual Studio\UDPClientServerCommunication\SocketConnection\obj\Debug\netstandard2.0\SocketConnection.AssemblyInfo.cs
+D:\Visual Studio\UDPClientServerCommunication\SocketConnection\obj\Debug\netstandard2.0\SocketConnection.dll
+D:\Visual Studio\UDPClientServerCommunication\SocketConnection\obj\Debug\netstandard2.0\SocketConnection.pdb
